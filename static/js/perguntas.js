@@ -19,7 +19,7 @@ const palavras = [
     "vulcão Submarino",
     "maelstrom",
     "baleeira",
-    "oceano Índico",
+    "oceano índico",
 
 ];
 
