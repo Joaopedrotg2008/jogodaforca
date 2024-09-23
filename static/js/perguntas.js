@@ -1,7 +1,7 @@
 const palavras = [
 
     "nautilus",
-    "capitáo Nemo",
+    "capitao Nemo",
     "aronnax",
     "ned Land",
     "oceano",
@@ -19,7 +19,7 @@ const palavras = [
     "vulcão Submarino",
     "maelstrom",
     "baleeira",
-    "oceano índico",
+    "oceano indico",
 
 ];
 
